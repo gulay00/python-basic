@@ -2,11 +2,11 @@
 
 This repository contains my early Python practice code, including:
 
-✔ for loops  
-✔ while loops  
-✔ functions  
-✔ lists & strings  
-✔ small practice tasks  
+ for loops  
+ while loops  
+ functions  
+ lists & strings  
+ small practice tasks  
 
 These exercises were created to build a strong foundation in Python before moving to more advanced topics like data structures, algorithms, and data science.
 

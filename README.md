@@ -1,4 +1,4 @@
-# 🐍 Python Basics Practice
+# Python Basics Practice
 
 This repository contains my early Python practice code, including:
 
@@ -12,7 +12,7 @@ These exercises were created to build a strong foundation in Python before movin
 
 ---
 
-## 📂 Structure
+##  Structure
 - `for_loops.ipynb`
 - `while_loops.ipynb`
 - `functions.ipynb`
@@ -21,9 +21,9 @@ These exercises were created to build a strong foundation in Python before movin
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 To document my Python learning journey and provide a clean, organized collection of beginner-friendly practice tasks.
 
 ---
 
-⭐ I will continue adding new files as I progress.
+ I will continue adding new files as I progress.
